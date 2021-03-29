@@ -1,0 +1,4 @@
+
+<link rel="stylesheet" href="foldername/bootstrap.min.css">
+
+<script src="foldername/bootstrap.min.js"></script>
